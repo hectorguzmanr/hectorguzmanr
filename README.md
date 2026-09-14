@@ -25,13 +25,6 @@
 
 <br/>
 
-<a href="https://github.com/hectorguzmanr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hectorguzmanr&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hectorguzmanr&theme=buefy&layout=compact" />
-</a>
-
-<br/>
-
 <h3> 🤝🏻 &nbsp;Conecta conmigo </h3>
 
 <p align="center">
