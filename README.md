@@ -23,8 +23,6 @@
   ![PowerPoint](https://img.shields.io/badge/-PowerPoint-333333?style=flat&logo=microsoft-powerpoint&logoColor=B7472A)
   ![MS Project](https://img.shields.io/badge/-MS%20Project-333333?style=flat)
 
-<br/>
-
 <h3> 🤝🏻 &nbsp;Conecta conmigo </h3>
 
 <p align="center">
