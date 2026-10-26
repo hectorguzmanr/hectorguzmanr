@@ -33,4 +33,4 @@
 
 ⭐️ De [Héctor Guzmán](https://github.com/hectorguzmanr)
 
-Con mucho amor.
+Con mucho Amor.
